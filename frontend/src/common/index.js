@@ -1,5 +1,5 @@
 
-const backendDomin=process.env.PORT
+const backendDomin="https://vibe-5l6m.onrender.com"
 
 const SummaryApi = {
     signUP : {
