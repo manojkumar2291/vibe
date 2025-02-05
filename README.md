@@ -40,52 +40,52 @@ MONGODB_URI=your_mongodb_connection_string
 TOKEN_SECRET_KEY=your_jwt_secret_key
 FRONTEND_URL=your_frontend_url (vercel)
 
-Frontend .env file
-
-REACT_APP_CLOUD_NAME_CLOUDINARY =
+```
 Frontend (frontend/.env)
 Create a .env file inside the frontend directory and add:
-
+```
 Frontend .env file
 
 REACT_APP_CLOUD_NAME_CLOUDINARY =
+```
 🔧 Installation & Setup
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+```
+
 git clone https://github.com/your-username/ecommerce-app.git
 cd ecommerce-app
+```
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
+
 # Install frontend dependencies
+```
 cd frontend
 npm install
+```
 
 # Install backend dependencies
+```
 cd ../backend
 npm install
+```
 3️⃣ Start the Backend Server
-bash
-Copy
-Edit
+
+```
 cd backend
 npm start
+```
 4️⃣ Start the Frontend Server
-bash
-Copy
-Edit
+```
 cd frontend
 npm run dev
+```
 The app will run at http://localhost:5173
 
-📸 Screenshots
+![Alt text](Full%20Stack%20E-Commerce%20MERN%20App.jpg?raw=true "Title")
 
-🌐 Live Demo
-🔗 Live Application: [your-vercel-link]
-🔗 GitHub Repository: [your-github-repo-link]
+[🌐 Live Demo](https://vibe-nine-omega.vercel.app/)
+
+🔗 GitHub Repository: [[your-github-repo-link](https://github.com/manojkumar2291/vibe)]
 
 🛠️ How It Works
 1️⃣ User Authentication: Users can sign up and log in with JWT authentication.
@@ -99,9 +99,9 @@ Pull requests are welcome! If you have ideas for improvement, feel free to fork 
 
 📩 Contact
 For queries, feel free to reach out:
-📧 Email: your-email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
-🐙 GitHub: Your GitHub
+📧 Email: podapatimanoj22@gmail.com
+🔗 LinkedIn: [](https://www.linkedin.com/in/podapati-manoj-kumar-2718a1249)
+🐙 GitHub:[ Your GitHub](https://github.com/manojkumar2291/)
 
 
 
