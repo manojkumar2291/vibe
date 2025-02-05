@@ -53,7 +53,7 @@ REACT_APP_CLOUD_NAME_CLOUDINARY =
 1️⃣ Clone the Repository
 ```
 
-git clone https://github.com/your-username/ecommerce-app.git
+git clone [https://github.com/manojkumar2291/vibe.git]
 cd ecommerce-app
 ```
 2️⃣ Install Dependencies
