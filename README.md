@@ -49,6 +49,7 @@ Frontend .env file
 REACT_APP_CLOUD_NAME_CLOUDINARY =
 ```
 🔧 Installation & Setup
+
 1️⃣ Clone the Repository
 ```
 
@@ -85,7 +86,7 @@ The app will run at http://localhost:5173
 
 [🌐 Live Demo](https://vibe-nine-omega.vercel.app/)
 
-🔗 GitHub Repository: [[your-github-repo-link](https://github.com/manojkumar2291/vibe)]
+🔗 GitHub Repository: [[github-repo-link](https://github.com/manojkumar2291/vibe)]
 
 🛠️ How It Works
 1️⃣ User Authentication: Users can sign up and log in with JWT authentication.
@@ -100,7 +101,7 @@ Pull requests are welcome! If you have ideas for improvement, feel free to fork 
 📩 Contact
 For queries, feel free to reach out:
 📧 Email: podapatimanoj22@gmail.com
-🔗 LinkedIn: [](https://www.linkedin.com/in/podapati-manoj-kumar-2718a1249)
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/podapati-manoj-kumar-2718a1249)
 🐙 GitHub:[ Your GitHub](https://github.com/manojkumar2291/)
 
 
