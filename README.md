@@ -89,10 +89,15 @@ The app will run at http://localhost:5173
 🔗 GitHub Repository: [[github-repo-link](https://github.com/manojkumar2291/vibe)]
 
 🛠️ How It Works
+
 1️⃣ User Authentication: Users can sign up and log in with JWT authentication.
+
 2️⃣ Admin Panel: Only admin users can add, edit, or delete products.
+
 3️⃣ Product Uploads: Admins can upload product images using Cloudinary.
+
 4️⃣ Shopping Cart: Users can add items to the cart and proceed to checkout.
+
 5️⃣ Secure API: All API routes are protected with JWT authentication.
 
 🧑‍💻 Contributing
